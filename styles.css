@@ -1,0 +1,36 @@
+
+body{
+    margin: 0;
+}
+#titleBoos{
+    font-size: 45px;
+    text-align: center;
+}
+#bodyPost{
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+}
+#post{
+    width: 40px;
+
+}
+#header{
+    display: flex;
+}
+#title{
+    font-size: 50px;
+    border: 10px solid blue;
+}
+#date{
+    font-size: 50px;
+
+}
+#image{
+    max-width: 100%;
+    height: auto;
+    border: 30px solid black;
+}
+#description{
+
+}
