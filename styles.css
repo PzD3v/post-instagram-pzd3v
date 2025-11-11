@@ -5,10 +5,12 @@ body{
 #titleBoos{
     font-size: 45px;
     text-align: center;
+    width: 100vw;
 }
 #bodyPost{
-    width: 50%;
-    margin: 10px;
+  border: 1px solid red;
+    width: 100vw;
+    height: 100vh;;
     padding: 10px;
 }
 #post{
@@ -20,10 +22,11 @@ body{
 }
 #title{
     font-size: 50px;
-    border: 10px solid blue;
+    border: 1px solid blue;
 }
 #date{
     font-size: 50px;
+    border: 1px solid blue;
 
 }
 #image{
